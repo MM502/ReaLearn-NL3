@@ -2866,7 +2866,7 @@ Import the following text into the controller department:
             "id": ""
           }
         },
-        "isEnabled": false,
+        "isEnabled": true,
         "advanced": {
           "on_activate": {
             "send_midi_feedback": []
