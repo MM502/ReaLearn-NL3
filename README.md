@@ -941,10 +941,10 @@ Import the following text into the controller department:
           }
         },
         "mode": {
+          "maxSourceValue": 0.6062992125984252,
           "maxStepSize": 0.05,
           "minStepFactor": 1,
           "maxStepFactor": 1,
-          "outOfRangeBehavior": "ignore",
           "rotateIsEnabled": true
         },
         "target": {
@@ -995,7 +995,6 @@ Import the following text into the controller department:
           }
         },
         "mode": {
-          "type": 1,
           "maxStepSize": 0.05,
           "minStepFactor": 1,
           "maxStepFactor": 1,
@@ -2867,6 +2866,7 @@ Import the following text into the controller department:
             "id": ""
           }
         },
+        "isEnabled": false,
         "advanced": {
           "on_activate": {
             "send_midi_feedback": []
